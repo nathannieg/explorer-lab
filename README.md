@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
-Além das máscaras das bandeiras Visa e Mastercard, foi implementada também a máscara da bandeira Elo. [Acesse a aplicação aqui]](https://explorer-lab.netlify.app/).
+Além das máscaras das bandeiras Visa e Mastercard, foi implementada também a máscara da bandeira Elo. [Acesse a aplicação aqui](https://explorer-lab.netlify.app/).
 
 ## 🔖 Layout
 
